@@ -6,10 +6,11 @@
 
 - 🎓 **Student at Aristotle University of Thessaloniki** - Studying **Computer Science**.
 - 💻 **Tech Stack**: 
-  - **Languages**: Java, C++, C, TypeScript, JavaScript and more
+  - **Languages**: Java, C++, C, TypeScript, JavaScript and more.
   - **Frameworks**: React, Next.js
-  - **Technologies**: OOP, RESTful APIs, Git & GitHub
-- 🌱 **Learning Path**: Constantly expanding my skill set and knowledge in programming languages and frameworks. 
+  - **Technologies**: OOP, RESTful APIs, Git & GitHub and more.
+- 🌱 **Learning Path**: Constantly expanding my skill set and knowledge in programming languages and frameworks.
+- **Other**: Minecraft Plugin development, Blender 3D modelling and more.
 
 ## 🚀 What I'm Working On
 
